@@ -12,3 +12,6 @@ Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collabor
 ### Ester Trombetta
 Voglio imparare ad usare GitHub per velocizzare e facilitare il lavoro di gruppo.
 
+# obiettivo progetto
+Imparare ad usare GitHub
+aggiunto da Daniela.
