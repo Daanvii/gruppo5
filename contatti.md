@@ -1,4 +1,5 @@
-#Contatti Importanti 
+
+# Contatti Importanti 
 -Mario Rossi
 -Anna Bianchi
 -Giovanni Verdi
@@ -6,3 +7,8 @@
 -Margherita Salvetti
 -Flavio Merlini
 -Livia Corvino
+-Giuseppe Merlino
+-Tommaso Basile
+-Sveva Rossini
+-Alessio Bortolotti
+
