@@ -3,11 +3,17 @@ Progetto del team 5 per comprensione basi GitHub
 
 ## Membri del Team
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 ### Daniela Vigorito
-Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collaborativo. 
+
 ### Alessia Carpino
 Sto imparando ad usare GitHub
+
+### Ester Trombetta
 =======
-"Voglio imparare a usare GitHub per velocizzare e facilitare il lavoro di gruppo" 
+### Daniela Vigorito### Daniela Vigorito
+### Daniela Vigorito
+Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collaborativo. 
+>>>>>>> 3b8169e54af7d1eefd89cd9858c55b0ffaa90dd1
+### Ester Trombetta
+Voglio imparare ad usare GitHub per velocizzare e facilitare il lavoro di gruppo.
+
