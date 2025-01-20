@@ -10,3 +10,4 @@ Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collabor
 ### Alessia Carpino
 Sto imparando ad usare GitHub
 =======
+"Voglio imparare a usare GitHub per velocizzare e facilitare il lavoro di gruppo" 
